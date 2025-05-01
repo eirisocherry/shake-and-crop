@@ -5,8 +5,10 @@ Tutorial:
 ![image](https://github.com/user-attachments/assets/f803fc5f-d0ee-46b7-828d-de809bcac47b)  
 
 # Advantages over s_shake
-1. Better perfomance  
-2. Frequency keyframe animation is smooth and correct, perfomance expensive tho (in s_shake it's twitchy and incorrect)
+1. Better performance  
+- If preset applying takes so long, clean your `Support Files\Presets` folder (the less presets you have in this folder, the faster applying is)  
+- If you need even better performance, just bake the expressions (you can use my other script for this: https://github.com/eirisocherry/camera-time-remapping)  
+2. Frequency keyframe animation is smooth and correct, performance expensive tho (in s_shake it's twitchy and incorrect)  
 3. Works in one space, when applied to a single layer (if you move the layer out the comp and move it back with another shake/crop, the edges of the layer won't be cut)  
 4. Anchor point controls  
 5. No plugins needed  
