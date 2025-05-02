@@ -24,7 +24,7 @@ Tutorial: https://youtu.be/kfl5tge6U6w
 1. Open After Effects.  
 2. View available presets in `Effects & Presets` tab  
 ![image](https://github.com/user-attachments/assets/0e8390f4-95e3-4128-aff6-5ca09e1bef71)  
-3. Apply a preset to any layer you want to shake/crop.  
+3. Apply a preset to any layer you want to shake/crop  
 
 ## Support
 Author: https://youtube.com/@shy_rikki  
