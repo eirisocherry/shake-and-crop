@@ -1,5 +1,5 @@
 # Shake and Crop
-After Effects presets (transform effect with hand made expressions) that allows you to apply shake and crop to chosen layers.  
+After Effects presets (transform effect with hand made expressions) that allows you to apply shake and crop to chosen layers  
 Tutorial: https://youtu.be/kfl5tge6U6w  
 
 ![image](https://github.com/user-attachments/assets/f803fc5f-d0ee-46b7-828d-de809bcac47b)  
