@@ -27,5 +27,5 @@ Tutorial: https://youtu.be/kfl5tge6U6w
 3. Apply a preset to any layer you want to shake/crop  
 
 ## Support
-Author: https://youtube.com/@shy_rikki  
-If you have any questions or found a bug, please create an issue in this repository or dm me in discord: `shy_rikki`  
+Author: https://www.youtube.com/@shy_rikki  
+My support discord server: https://discord.gg/AAJxThhbBf  
